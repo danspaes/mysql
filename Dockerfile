@@ -1,4 +1,4 @@
-FROM mysql:5.5
+FROM mysql:8
 
 ENV MYSQL_ROOT_USER=root
 ENV MYSQL_ROOT_PASSWORD=toor
